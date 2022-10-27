@@ -1,0 +1,32 @@
+<html lang="ru">
+<head>
+<title>BBQ на выезде</title>
+<meta charset="UTF-8">
+   <link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body><header><h1>BBQ на выезде</h1></header>
+
+<div> <a href="#"><!--вставить ссылку на инсту -->
+<img class="sm" src="https://st2.depositphotos.com/1310390/7147/v/450/depositphotos_71476417-stock-illustration-hipster-camera-icon.jpg" alt="instagram"> </a>
+<!--раздел между гигантами-->
+<a href="https://ru-ru.facebook.com/people/%D0%AE%D1%80%D0%B8%D0%B9-%D0%9A%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9/100023752458435">
+<img class="sm" src="https://st2.depositphotos.com/1144386/7770/v/450/depositphotos_77705004-stock-illustration-original-square-with-round-corners.jpg" alt="facebook"> </a>
+<a href="#"><!--вставить ссылку на вайбер-->
+<img class="sm" src="https://st2.depositphotos.com/4226061/9064/v/450/depositphotos_90648034-stock-illustration-phone-handset-icon.jpg" alt="viber"> </a>
+
+
+<p>ujg</p>
+
+<p>+380677141114</p>
+<p>+380633728639</p>
+</div>
+<hr>
+
+<pre><h3>Какой-то текс
+ о методах и способах
+ приготовления</h3>
+</pre>
+
+
+
+</body></html>
